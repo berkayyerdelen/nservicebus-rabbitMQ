@@ -1,0 +1,15 @@
+{
+  "NServiceBus.MessageId": "45658919-6a50-42ab-8cd2-b18201258239",
+  "NServiceBus.MessageIntent": "Send",
+  "NServiceBus.ConversationId": "edfcb58f-a1f7-4b86-ad5e-b1820125823c",
+  "NServiceBus.CorrelationId": "45658919-6a50-42ab-8cd2-b18201258239",
+  "NServiceBus.ReplyToAddress": "NServiceBusRabbitMQWebAPI",
+  "NServiceBus.OriginatingMachine": "MSI",
+  "NServiceBus.OriginatingEndpoint": "NServiceBusRabbitMQWebAPI",
+  "$.diagnostics.originating.hostid": "4267ff2c933516472b933bf0345e6fa8",
+  "NServiceBus.ContentType": "application\/json",
+  "NServiceBus.EnclosedMessageTypes": "OrderManagement.IntegrationHandlers.Orders.StartOrder, OrderManagement.IntegrationHandlers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "NServiceBus.Version": "9.0.0",
+  "NServiceBus.TimeSent": "2024-06-01 17:48:38:040810 Z",
+  "traceparent": "00-ae0a70d252575efe963c5e70bd3e6259-dbdc9cf24caff018-00"
+}

@@ -1,0 +1,12 @@
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.Definition\bin\Debug\net8.0\OrderManagement.Definition.deps.json
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.Definition\bin\Debug\net8.0\OrderManagement.Definition.dll
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.Definition\bin\Debug\net8.0\OrderManagement.Definition.pdb
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.Definition\obj\Debug\net8.0\OrderManagement.Definition.csproj.AssemblyReference.cache
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.Definition\obj\Debug\net8.0\OrderManagement.Definition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.Definition\obj\Debug\net8.0\OrderManagement.Definition.AssemblyInfoInputs.cache
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.Definition\obj\Debug\net8.0\OrderManagement.Definition.AssemblyInfo.cs
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.Definition\obj\Debug\net8.0\OrderManagement.Definition.csproj.CoreCompileInputs.cache
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.Definition\obj\Debug\net8.0\OrderManagement.Definition.dll
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.Definition\obj\Debug\net8.0\refint\OrderManagement.Definition.dll
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.Definition\obj\Debug\net8.0\OrderManagement.Definition.pdb
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.Definition\obj\Debug\net8.0\ref\OrderManagement.Definition.dll

@@ -1,0 +1,15 @@
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.IntegrationHandlers\bin\Debug\net8.0\OrderManagement.IntegrationHandlers.deps.json
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.IntegrationHandlers\bin\Debug\net8.0\OrderManagement.IntegrationHandlers.dll
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.IntegrationHandlers\bin\Debug\net8.0\OrderManagement.IntegrationHandlers.pdb
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.IntegrationHandlers\obj\Debug\net8.0\OrderManagement.IntegrationHandlers.csproj.AssemblyReference.cache
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.IntegrationHandlers\obj\Debug\net8.0\OrderManagement.IntegrationHandlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.IntegrationHandlers\obj\Debug\net8.0\OrderManagement.IntegrationHandlers.AssemblyInfoInputs.cache
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.IntegrationHandlers\obj\Debug\net8.0\OrderManagement.IntegrationHandlers.AssemblyInfo.cs
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.IntegrationHandlers\obj\Debug\net8.0\OrderManagement.IntegrationHandlers.csproj.CoreCompileInputs.cache
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.IntegrationHandlers\obj\Debug\net8.0\OrderManagement.IntegrationHandlers.dll
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.IntegrationHandlers\obj\Debug\net8.0\refint\OrderManagement.IntegrationHandlers.dll
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.IntegrationHandlers\obj\Debug\net8.0\OrderManagement.IntegrationHandlers.pdb
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.IntegrationHandlers\obj\Debug\net8.0\ref\OrderManagement.IntegrationHandlers.dll
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.IntegrationHandlers\bin\Debug\net8.0\OrderManagement.Definition.dll
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.IntegrationHandlers\bin\Debug\net8.0\OrderManagement.Definition.pdb
+C:\Users\berka\RiderProjects\NServiceBus\OrderManagement.IntegrationHandlers\obj\Debug\net8.0\OrderManagement.IntegrationHandlers.csproj.CopyComplete

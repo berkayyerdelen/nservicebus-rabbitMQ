@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "w2tGthGOJH1sLEucFTNXvOAav3rc4mDfD4dRmq7YYfQjPiG827tW5W59ofouSz4c2hxCMTK/HzOEAOjZ92aSmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\berka\\RiderProjects\\NServiceBus\\OrderManagement.IntegrationHandlers\\OrderManagement.IntegrationHandlers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berka\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\berka\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\berka\\.nuget\\packages\\nservicebus\\9.0.0\\nservicebus.9.0.0.nupkg.sha512",
+    "C:\\Users\\berka\\.nuget\\packages\\nservicebus.messageinterfaces\\1.0.0\\nservicebus.messageinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\berka\\.nuget\\packages\\system.formats.asn1\\8.0.0\\system.formats.asn1.8.0.0.nupkg.sha512",
+    "C:\\Users\\berka\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.0\\system.security.cryptography.pkcs.8.0.0.nupkg.sha512",
+    "C:\\Users\\berka\\.nuget\\packages\\system.security.cryptography.xml\\8.0.0\\system.security.cryptography.xml.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

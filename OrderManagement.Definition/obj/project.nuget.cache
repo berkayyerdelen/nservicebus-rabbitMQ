@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kuXtpVm8IFe4MHN6bgpI9rLPSjH1LIC8Mz1wpEiVsk4uOjjYfZgdal6xxnkUeIt59NGRGSUf6VSpdwqPqghlXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\berka\\RiderProjects\\NServiceBus\\OrderManagement.Definition\\OrderManagement.Definition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berka\\.nuget\\packages\\nservicebus.messageinterfaces\\1.0.0\\nservicebus.messageinterfaces.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

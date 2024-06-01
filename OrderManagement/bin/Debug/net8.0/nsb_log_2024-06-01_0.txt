@@ -1,0 +1,20 @@
+﻿2024-06-01 20:24:58.969 INFO  Logging to 'C:\Users\berka\RiderProjects\NServiceBus\OrderManagement\bin\Debug\net8.0\' with level Info
+2024-06-01 20:26:29.743 INFO  Logging to 'C:\Users\berka\RiderProjects\NServiceBus\OrderManagement\bin\Debug\net8.0\' with level Info
+2024-06-01 20:26:29.905 INFO  No valid license could be found. Falling back to trial license with start date '2024-06-01'.
+2024-06-01 20:30:01.141 INFO  Logging to 'C:\Users\berka\RiderProjects\NServiceBus\OrderManagement\bin\Debug\net8.0\' with level Info
+2024-06-01 20:30:01.280 INFO  No valid license could be found. Falling back to trial license with start date '2024-06-01'.
+2024-06-01 20:31:49.979 INFO  Logging to 'C:\Users\berka\RiderProjects\NServiceBus\OrderManagement\bin\Debug\net8.0\' with level Info
+2024-06-01 20:31:50.109 INFO  No valid license could be found. Falling back to trial license with start date '2024-06-01'.
+2024-06-01 20:32:53.712 INFO  Logging to 'C:\Users\berka\RiderProjects\NServiceBus\OrderManagement\bin\Debug\net8.0\' with level Info
+2024-06-01 20:32:53.879 INFO  No valid license could be found. Falling back to trial license with start date '2024-06-01'.
+2024-06-01 20:44:04.421 INFO  Logging to 'C:\Users\berka\RiderProjects\NServiceBus\OrderManagement\bin\Debug\net8.0\' with level Info
+2024-06-01 20:44:43.476 INFO  Logging to 'C:\Users\berka\RiderProjects\NServiceBus\OrderManagement\bin\Debug\net8.0\' with level Info
+2024-06-01 20:44:43.634 INFO  No valid license could be found. Falling back to trial license with start date '2024-06-01'.
+2024-06-01 20:46:35.079 INFO  Logging to 'C:\Users\berka\RiderProjects\NServiceBus\OrderManagement\bin\Debug\net8.0\' with level Info
+2024-06-01 20:46:35.217 INFO  No valid license could be found. Falling back to trial license with start date '2024-06-01'.
+2024-06-01 20:47:11.463 INFO  Logging to 'C:\Users\berka\RiderProjects\NServiceBus\OrderManagement\bin\Debug\net8.0\' with level Info
+2024-06-01 20:47:11.602 INFO  No valid license could be found. Falling back to trial license with start date '2024-06-01'.
+2024-06-01 20:48:31.620 INFO  Logging to 'C:\Users\berka\RiderProjects\NServiceBus\OrderManagement\bin\Debug\net8.0\' with level Info
+2024-06-01 20:48:31.795 INFO  No valid license could be found. Falling back to trial license with start date '2024-06-01'.
+2024-06-01 20:51:35.607 INFO  Logging to 'C:\Users\berka\RiderProjects\NServiceBus\OrderManagement\bin\Debug\net8.0\' with level Info
+2024-06-01 20:51:35.789 INFO  No valid license could be found. Falling back to trial license with start date '2024-06-01'.
